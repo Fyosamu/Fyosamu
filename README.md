@@ -1,50 +1,70 @@
-# Hi there — I'm **dazo**
+# Hi, I'm Fyosamu
 
-**A remote build studio that ships websites, apps, bots and SEO — paid in USDT.**
+I run **[dazo](https://fyosamu.github.io/)** — a one-person remote build studio. I build
+websites, apps, chat bots and AI workflows at a **published, fixed price**, with the
+delivery window agreed before anything starts and the source handed over when it is done.
 
-[**Portfolio →**](https://fyosamu.github.io/) · [**Partner program: keep 15% →**](https://fyosamu.github.io/partners/) · [hkay7645@gmail.com](mailto:hkay7645@gmail.com)
-
----
-
-### What I build
-
-| | |
-|---|---|
-| **Websites** | Theme-based or fully custom — stores, corporate sites, SaaS dashboards, landing pages, blogs |
-| **Site → app** | Turn an existing website into an Android / iOS app with push notifications |
-| **Bots** | Telegram, Discord and WhatsApp bots, channel automation, mini-apps |
-| **SEO** | Technical audits, schema markup, Core Web Vitals, internal linking, crawlability |
-| **Performance** | Lighthouse measured and written into the delivery note, not promised |
-| **Care** | Security hardening, backups, uptime monitoring, patching, support retainers |
-
-Payment is crypto only: **USDT on BEP-20 or ERC-20**. No bank transfer, no PayPal, no company invoices.
+**[fyosamu.github.io](https://fyosamu.github.io/)** &nbsp;·&nbsp;
+**[Every price ->](https://fyosamu.github.io/pricing/)** &nbsp;·&nbsp;
+**[hkay7645@gmail.com](mailto:hkay7645@gmail.com)**
 
 ---
 
-### Public repositories
+## What I build
 
-| Repo | What it is |
-|---|---|
-| [Fyosamu.github.io](https://github.com/Fyosamu/Fyosamu.github.io) | This studio's site — [live at fyosamu.github.io](https://fyosamu.github.io/) |
-| [girih-exe](https://github.com/Fyosamu/girih-exe) | 10-piece generative NFT drop: art, deterministic generator, verified ERC-721 contract |
-| [novabits-store](https://github.com/Fyosamu/novabits-store) | Digital-product storefront with crypto payments |
-| [fashion-store](https://github.com/Fyosamu/fashion-store) | Clothing store — categories, product grid, editorial layout |
-| [ai-tool-scout](https://github.com/Fyosamu/ai-tool-scout) | Static review/comparison site, dependency-free Node build |
-| [nyx](https://github.com/Fyosamu/nyx) | Xray management suite — VLESS REALITY, auto-failover, WARP mesh |
-| [sd-gen](https://github.com/Fyosamu/sd-gen) | SDXL text-to-image running entirely on GitHub Actions |
-| [dazo-ai-video](https://github.com/Fyosamu/dazo-ai-video) | Automated video pipeline wired to a Telegram bot |
+| Service | Price | Delivery |
+|---|---|---|
+| Custom website (theme or fully bespoke) | **$450** | 3–7 days |
+| Existing website → Android / iOS app | **$600** | 4–8 days |
+| Telegram or Discord bot | **$350** | 2–5 days |
+| AI workflow automation | **$550** | 3–7 days |
+| Technical SEO audit and fixes | **$300** | scoped per site |
+| Speed optimisation (Core Web Vitals) | **$250** | 1–3 days |
+| Care plan — updates, backups, fixes | **$90 / mo** | ongoing |
 
----
-
-### For sale right now
-
-- **GIRIH.EXE** — generative NFT collection, 10 pieces, **20 USDT** each · [art, generator & contract](https://github.com/Fyosamu/girih-exe)
-- **PostPilot** — Telegram channel scheduler with RSS auto-posting, **$29**, 40-test suite
+No discovery call needed to see a number — the whole list is published at
+**[fyosamu.github.io/pricing](https://fyosamu.github.io/pricing/)**.
 
 ---
 
-### Work with me
+## Free tools, open source
 
-**You have a client?** Send the project and keep **15%** of everything we are paid — in USDT, within 24 hours of the payment clearing. No cost, no exclusivity, nothing for you to sell.
+Two single-file pricing calculators. MIT, no dependencies, no analytics — the maths
+runs in your browser and nothing leaves the page.
 
-**→ https://fyosamu.github.io/partners/**
+- **[Website cost calculator](https://fyosamu.github.io/tools/website-cost-calculator/)**
+  Scope in, a fixed price in USD and USDT out, plus the typical market range so you can
+  check a quote you have already been given.
+- **[Telegram bot cost calculator](https://fyosamu.github.io/tools/telegram-bot-cost-calculator/)**
+  Features and message volume in, build price and a realistic monthly hosting figure out —
+  the number people usually underestimate.
+
+Source: **[dazo-cost-calculators](https://github.com/Fyosamu/dazo-cost-calculators)** —
+fork it, change one price table, host it wherever you like.
+
+---
+
+## This site
+
+**[Fyosamu.github.io](https://github.com/Fyosamu/Fyosamu.github.io)** is the whole site:
+plain static HTML, no framework, no build step, no dependencies. It deploys on GitHub Pages.
+
+---
+
+## How I get paid
+
+**USDT** — BEP-20 or ERC-20 only, **never TRC-20**: that address does not exist on Tron
+and the transfer would be lost. Cards and PayPal are not reliably available where I work,
+so crypto is what keeps projects moving.
+
+---
+
+## Refer a project
+
+Send work my way and keep **15%** of the fee — no cap, no exclusivity, no minimum volume.
+**[Partner program →](https://fyosamu.github.io/partners/)**
+
+---
+
+**Open to:** website builds · site → app conversion · Telegram and Discord bots ·
+AI workflow automation · technical SEO · performance and Core Web Vitals work
