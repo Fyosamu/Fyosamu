@@ -1,8 +1,9 @@
 # Hi there — I'm **dazo** (Fyosamu)
 
 I run **[dazo](https://fyosamu.github.io/)** — a one-person remote build studio. I build
-websites, apps, chat bots and AI workflows at a **published, fixed price**, with the
-delivery window agreed before anything starts and the source handed over when it is done.
+websites, apps, chat bots and AI workflows at a **published price range**, with the
+exact figure and the delivery window agreed in writing before anything starts, and the
+source handed over when it is done.
 
 **[fyosamu.github.io](https://fyosamu.github.io/)** &nbsp;·&nbsp;
 **[Every price ->](https://fyosamu.github.io/pricing/)** &nbsp;·&nbsp;
@@ -14,16 +15,18 @@ delivery window agreed before anything starts and the source handed over when it
 
 | Service | Price | Delivery |
 |---|---|---|
-| Custom website (theme or fully bespoke) | **$450** | 3–7 days |
-| Existing website → Android / iOS app | **$600** | 4–8 days |
-| Telegram or Discord bot | **$350** | 2–5 days |
-| AI workflow automation | **$550** | 3–7 days |
-| Technical SEO audit and fixes | **$300** | scoped per site |
-| Speed optimisation (Core Web Vitals) | **$250** | 1–3 days |
-| Care plan — updates, backups, fixes | **$90 / mo** | ongoing |
+| Custom website (theme or fully bespoke) | **$750 – $2,500** | 3–7 days |
+| Existing website → Android / iOS app | **$1,000 – $3,200** | 4–8 days |
+| Telegram or Discord bot | **$600 – $1,800** | 2–5 days |
+| AI workflow automation | **$900 – $3,000** | 3–7 days |
+| Technical SEO audit and fixes | **$500 – $1,500** | scoped per site |
+| Speed optimisation (Core Web Vitals) | **$400 – $1,200** | 1–3 days |
+| Care plan — updates, backups, fixes | **$150 – $400 / mo** | ongoing |
 
-No discovery call needed to see a number — the whole list is published at
-**[fyosamu.github.io/pricing](https://fyosamu.github.io/pricing/)**.
+No discovery call needed to see a number — the whole list, with what moves a
+quote inside each range, is published at
+**[fyosamu.github.io/pricing](https://fyosamu.github.io/pricing/)**. Every project
+then gets one fixed figure in writing.
 
 ---
 
