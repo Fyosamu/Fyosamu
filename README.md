@@ -61,6 +61,7 @@ fork it, change one price table, host it wherever you like.
 | [ai-tool-scout](https://github.com/Fyosamu/ai-tool-scout) | Static AI-tool review site — dependency-free Node build |
 | [vps](https://github.com/Fyosamu/vps) | Server and VPS automation scripts |
 | [novabits-store](https://github.com/Fyosamu/novabits-store) | Digital product store with crypto payments and instant delivery |
+| [ai-prompts-library](https://github.com/Fyosamu/ai-prompts-library) | 180 free copy-paste AI prompts across 10 categories |
 
 ---
 
@@ -70,6 +71,21 @@ fork it, change one price table, host it wherever you like.
   [art, generator & contract](https://github.com/Fyosamu/girih-exe)
 - **PostPilot** — Telegram channel scheduler with RSS auto-posting, **$79** ·
   [source and test run on request](https://fyosamu.github.io/#products)
+
+---
+
+## Digital products, instant download
+
+Both stores are live now, both paid in USDT or by card, no account and no waiting:
+
+- **[Dreamer Prompt Lab](https://www.getly.store/store/dreamer-prompt-lab-muifdken)** -
+  10,481 AI prompts in 164 categories for ChatGPT, Claude, Gemini and Midjourney.
+  Six bundles from ` $5.99 `, the whole vault at ` $14.99 `. Every prompt carries
+  the character or word limit its platform really enforces, so the output is usable
+  as-is. [180 of them are free, no signup](https://github.com/Fyosamu/ai-prompts-library).
+- **[Store templates](https://fyosamu.github.io/fashion-store/templates.html)** -
+  fifteen finished storefronts in plain HTML/CSS/JS. One folder, no build step,
+  14 USDT each, and [the live demo is there to click through before paying](https://fyosamu.github.io/fashion-store/).
 
 ---
 
