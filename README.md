@@ -87,6 +87,10 @@ Send the project and keep **15%** of everything we are paid — in USDT, within 
 the payment clearing. No cost, no exclusivity, nothing for you to sell.
 **[Partner program ->](https://fyosamu.github.io/partners/)**
 
+**Run a web design studio?** You design, we build — white-label by default, under your
+brand and never ours. Overflow for when the calendar fills up, or take the published price
+ranges, mark them up and invoice the client yourself.
+
 ---
 
 **Open to:** website builds · site → app conversion · Telegram and Discord bots ·
