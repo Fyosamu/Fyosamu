@@ -62,6 +62,15 @@ fork it, change one price table, host it wherever you like.
 | [vps](https://github.com/Fyosamu/vps) | Server and VPS automation scripts |
 | [novabits-store](https://github.com/Fyosamu/novabits-store) | Digital product store with crypto payments and instant delivery |
 | [ai-prompts-library](https://github.com/Fyosamu/ai-prompts-library) | 180 free copy-paste AI prompts across 10 categories |
+| [fashion-store](https://github.com/Fyosamu/fashion-store) | 200 clothing storefront templates — HTML/CSS/JS, crypto checkout, live demos |
+| [digital-store](https://github.com/Fyosamu/digital-store) | Static digital-products storefront with crypto payments |
+| [elementor-kit](https://github.com/Fyosamu/elementor-kit) | VERA Atelier — premium Elementor/WooCommerce fashion theme kit |
+| [still-here](https://github.com/Fyosamu/still-here) | 150 short reads that put your life in perspective — installable PWA, offline, no account |
+| [nft-collection](https://github.com/Fyosamu/nft-collection) | NFT collection generator + ERC-721 mint contract |
+| [chroma-spirits](https://github.com/Fyosamu/chroma-spirits) | Generative art collection script — Python + PIL |
+| [products](https://github.com/Fyosamu/products) | Micro-SaaS builders: finance tracker, wedding planner |
+| [chess-bot](https://github.com/Fyosamu/chess-bot) | Interactive chess board preview (HTML/JS) |
+| [instructions-page](https://github.com/Fyosamu/instructions-page) | Minimal instructions page with Node server |
 
 ---
 
