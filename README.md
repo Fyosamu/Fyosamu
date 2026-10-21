@@ -78,8 +78,8 @@ fork it, change one price table, host it wherever you like.
 
 - **GIRIH.EXE** — generative NFT collection, 10 pieces, **50 USDT** each ·
   [art, generator & contract](https://github.com/Fyosamu/girih-exe)
-- **PostPilot** — Telegram channel scheduler with RSS auto-posting, **$79** ·
-  [source and test run on request](https://fyosamu.github.io/#products)
+- **PostPilot** — Telegram scheduler bot with RSS auto-posting, **$79** ·
+  [full sales page](https://fyosamu.github.io/postpilot/)
 
 ---
 
